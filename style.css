@@ -1,0 +1,91 @@
+.heading_container
+{
+    
+    width: 100%;
+    background-color: whitesmoke;
+    text-align: left;
+    height: 200px;
+ 
+}
+.text1
+{
+    padding-top: 30px;
+    margin-left: 100px;
+    text-align:left;
+}
+#heading_1
+{
+    color: skyblue;
+    padding-bottom: 20px;
+
+
+}
+#heading_2
+{
+    color: yellow;
+}
+#para_1
+{
+    width: 50%;
+    color:skyblue;
+
+}
+.payment_container
+{
+    width: 100%;
+    background-color: teal;
+
+   padding:10px 10px;
+
+}
+.section1
+{
+    width: 30%;
+    background-color: skyblue ;
+    height: 180px;
+    float: left;
+  border: solid skyblue;
+  border-radius: 0px;
+  color: white;
+  text-align: center;
+  border-bottom-left-radius: 4px;
+}
+.section2
+{
+    width: 30%;
+    height: 180px;
+    float: left;
+    border:solid skyblue;
+    border-radius: 0px;
+   background-color: skyblue;
+   color: white;
+   text-align: center;
+   border-left: solid rgb(122, 182, 238);
+   border-bottom-right-radius: 4px;
+   
+}
+.btn
+{
+    text-align: center;
+    padding: 5px 50px;
+ cursor: pointer;
+ background-color: greenyellow;
+ color: white;
+ border-radius: 4px;
+ border-spacing: 4px;
+ outline-style: none;
+ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+border: none;
+}
+.container{
+    margin-left: 50px;
+    margin-top: 20px;
+    padding: 0 10px;
+}
+.main_container
+{
+    margin: 30px 100px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    height: 500px;
+    width: auto;
+}
